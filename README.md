@@ -1,4 +1,3 @@
 reposcore
-=========
-
-Score of a repo based on stars, forks, issues etc
+----------
+A script to calculate the total 'points' for a repo - based on number of forks, stars, issues, contributers.
